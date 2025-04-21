@@ -88,14 +88,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>MBRTechnologies Releases Nexus Repository</name>
-	      <url>http://172.31.45.230:9945/repository/mbrRelease/</url>
+	      <name>MAPR & MBRTechnologies Releases Nexus Repository</name>
+	      <url>http://172.31.46.205:9945/repository/maprRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>MBR Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.45.230:9945/repository/mbrSnapshot/</url>
+	      <name> MAPR & MBR Technologies Snapshot Nexus Repository </name>
+	      <url>http://172.31.46.205:9945/repository/maprRelease/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
