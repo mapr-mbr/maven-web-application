@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>MAPR_MBR Technologies- Home Page</title>
+<link href="images/mbr.jpeg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Ph No: +91-9980923226,+91-9900012028</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud </h1>
+<h1 align="center">Welcome to MAPR_MBR Technologies. Ph No: +91-12345678,+91-0987654321</h1>
+<h1 align="center"> MAPR_MBR Technologies- Very Good Training center for DevOps & Cloud </h1>
 
-<h2> Trainer Name: Balaji Reddy Lachhannagari</h2>
+<h2> CEO Name: Bharath Reddy M</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
