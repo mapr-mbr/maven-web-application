@@ -36,13 +36,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		MAPR_MBR Technologies, 
+		MBR TechPark , Above MAPR Bank, Beside MBRFoods,
 		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		+91-12345678, +91-0987654321
+		mbr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:mapr@gmail.com">Mail to MAPR_MBR Technologies</a>
 	</span>
 </div>
 <hr>
@@ -50,7 +50,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://mbr.com/">MAPR_MBR Technologies,Bengaluru</a> </small></p>
 
 </body>
 </html>
