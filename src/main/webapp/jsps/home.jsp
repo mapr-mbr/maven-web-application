@@ -9,7 +9,7 @@
 <style>
     body {
         background-image: url('images/mbr.jpg'); /* Replace with your image path */
-        background-size: 100px 100px;
+        background-size: 300px 300px; 
       /*  background-size: cover;  Adjust the image to cover the whole screen */
         background-repeat: no-repeat; /* Prevent tiling */
         background-attachment: fixed; /* Optional: keep image fixed when scrolling */
@@ -19,11 +19,22 @@
 </head>
 </head>
 <body>
+/*
 <h1 align="center style="color: blue; background-color: white; ">Welcome to MAPR_MBR Technologies. Ph No: +91-12345678,+91-0987654321</h1>
 <h1 align="center style="color: blue; background-color: white;"> MAPR_MBR Technologies- Very Good Training center for DevOps & Cloud  in Bharat..</h1>
-
 <h2 style="color: blue; background-color: white; > Company Name: MAPR</h2>
-<h2 style="color: blue; background-color: white; > CEO Name: Bharath Reddy M</h2>
+<h2 style="color: blue; background-color: white; > CEO Name: Bharath Reddy M</h2>  
+*/
+ h1 align="center" style="color: blue; background-color: white;">
+        Welcome to MAPR_MBR Technologies. Ph No: +91-12345678,+91-0987654321
+    </h1>
+<h1 align="center" style="color: blue; background-color: white;">
+        MAPR_MBR Technologies - Very Good Training center for DevOps & Cloud in Bharat..
+    </h1>
+
+    <h2 style="color: blue; background-color: white;">Company Name: MAPR</h2>
+    <h2 style="color: blue; background-color: white;">CEO Name: Bharath Reddy M</h2>
+
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
