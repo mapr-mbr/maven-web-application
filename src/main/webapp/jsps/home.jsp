@@ -6,6 +6,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MAPR_MBR Technologies- Home Page</title>
 <link href="images/mbr.jpg" rel="icon">
+<style>
+    body {
+        background-image: url('images/mbr.jpg'); /* Replace with your image path */
+        background-size: cover; /* Adjust the image to cover the whole screen */
+        background-repeat: no-repeat; /* Prevent tiling */
+        background-attachment: fixed; /* Optional: keep image fixed when scrolling */
+    }
+</style>
+
 </head>
 </head>
 <body>
