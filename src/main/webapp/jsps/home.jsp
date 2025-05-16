@@ -9,7 +9,7 @@
 <style>
     body {
         background-image: url('images/mbr.jpg'); /* Replace with your image path */
-        background-size: 800px 600px;
+        background-size: 300px 300px;
       /*  background-size: cover;  Adjust the image to cover the whole screen */
         background-repeat: no-repeat; /* Prevent tiling */
         background-attachment: fixed; /* Optional: keep image fixed when scrolling */
