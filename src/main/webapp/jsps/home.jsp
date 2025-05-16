@@ -19,10 +19,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to MAPR_MBR Technologies. Ph No: +91-12345678,+91-0987654321</h1>
-<h1 align="center"> MAPR_MBR Technologies- Very Good Training center for DevOps & Cloud </h1>
+<h1 align="center"> MAPR_MBR Technologies- Very Good Training center for DevOps & Cloud  in Bharat..</h1>
 
-<h2> CEO Name: Bharath Reddy M</h2>
 <h2> Company Name: MAPR</h2>
+<h2> CEO Name: Bharath Reddy M</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
