@@ -8,11 +8,12 @@
 	<version>0.0.2</version>
 	
 	<name>maven-web-application</name>
+	
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>MAPR Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
